@@ -1,0 +1,19 @@
+# создаётся при работе, у каждого своё
+arrow_bot_log.txt
+arrow_bot_last.png
+arrow_bot_state.json
+arrow_bot_stats.jsonl
+arrow_bot_stats.jsonl.tmp
+arrow_settings.json
+arrow_bot.stop
+arrow_overlay_error.txt
+history_import.jsonl
+backup/
+dist/
+__pycache__/
+*.pyc
+
+# личные заметки сессии
+CLAUDE.md
+README.txt
+INSTALL.txt
